@@ -143,6 +143,19 @@ The dataset provides a realistic business scenario for data cleaning, data model
 - Built a fully interactive dashboard using Slicers
 
 ---
+## ⭐ Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Data Modeling (Star Schema)
+- Exploratory Data Analysis (EDA)
+- Interactive Dashboard Development
+- Data Visualization
+- Business Intelligence
+- Microsoft Excel Analytics
+- Power Query
+- Power Pivot
+
+---
 
 ## 👤 Author
 
