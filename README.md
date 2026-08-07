@@ -85,7 +85,7 @@ The dataset provides a realistic business scenario for data cleaning, data model
 
 ---
 
-## 🖼️ Project Preview
+## Dashboard Development Process
 
 ### Dashboard
 
