@@ -1,23 +1,46 @@
-## ai-jobs-market-analysis-excel
-Interactive Excel dashboard for analyzing AI jobs market trends using Power Query, Power Pivot, Pivot Tables, and Pivot Charts.
+# 📊 AI Jobs Market Analysis Dashboard (Excel)
 
-## Project Overview
-This project analyzes the global AI job market using Microsoft Excel to uncover insights about salaries, job distribution, AI specializations, company characteristics, work modes, and employee satisfaction.
-The project follows a complete data analysis workflow, including data preparation, exploratory data analysis (EDA), data modeling, visualization, and dashboard development.
+An end-to-end **Data Analysis** project built with **Microsoft Excel** to analyze the **Global AI Job Market**. This project demonstrates the complete analytics workflow, from data preparation to interactive dashboard development for business decision-making.
 
-## Business Question
+---
 
-How can Excel be used to analyze AI job market data and provide actionable insights into salaries, job distribution, AI specializations, company characteristics, and workforce trends through an interactive dashboard?
+## ❓ Business Question
 
-## Objectives
+**How can Microsoft Excel be used to analyze the global AI job market and provide actionable insights into salaries, job distribution, AI specializations, experience levels, and workforce trends through an interactive dashboard?**
 
-- Analyze salary trends.
-- Compare salaries across countries.
-- Explore AI specialization demand.
-- Analyze work modes.
-- Build an interactive dashboard.
+---
 
-## Tools Used
+## 🎯 Project Objective
+
+The objective of this project is to transform raw AI job market data into meaningful business insights by applying data cleaning, modeling, exploratory data analysis (EDA), and visualization techniques in Microsoft Excel. The final dashboard enables users to explore salary trends, workforce distribution, AI specialization demand, and work patterns through an interactive reporting experience.
+
+---
+
+## 🔄 Project Workflow
+
+- Imported the dataset into Microsoft Excel
+- Cleaned and transformed the data using Power Query
+- Built a Star Schema data model using Power Pivot
+- Performed Exploratory Data Analysis (EDA)
+- Applied Excel functions for data analysis
+- Created Pivot Tables and Pivot Charts
+- Built an interactive dashboard using Slicers
+
+---
+
+## 📈 Dashboard Features
+
+- Average Salary by Job Role
+- Average Salary by Country
+- Jobs by Country
+- Average Salary Trend by Year
+- Average Salary by Experience Level
+- AI Adoption Score by Industry
+- Work-Life Balance by Work Mode
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Microsoft Excel
 - Power Query
@@ -26,7 +49,9 @@ How can Excel be used to analyze AI job market data and provide actionable insig
 - Pivot Charts
 - Slicers
 
-  ## Excel Functions Used
+---
+
+## 🧮 Excel Functions Used
 
 - XLOOKUP
 - IFERROR
@@ -34,32 +59,90 @@ How can Excel be used to analyze AI job market data and provide actionable insig
 - SUMIF
 - AVERAGEIF
 
-## Dashboard
-<img width="1031" height="661" alt="01_Dashboard" src="https://github.com/user-attachments/assets/f8c56511-5ffe-4e7a-b318-67043a5e8991" />
+---
 
-## Power Query
-<img width="1917" height="935" alt="02_Query" src="https://github.com/user-attachments/assets/95f4cc53-0fe9-42a5-89b4-86911780ff1d" />
+## 📂 Dataset
 
-## Data Model
-<img width="1202" height="663" alt="03_Data Model" src="https://github.com/user-attachments/assets/14d551e3-5c0d-4cad-b3a2-4ed79ff61378" />
+This project uses the **Global AI Job Market Dataset** obtained from Kaggle.
 
-## EDA
-<img width="1762" height="731" alt="04_EDA" src="https://github.com/user-attachments/assets/30df2ba9-bd51-42f0-9417-2adaa5d5e35f" />
+The dataset includes:
 
-## Visualizations
-<img width="1680" height="651" alt="05_Visualizations" src="https://github.com/user-attachments/assets/e4db319f-c5c4-4ca7-bc26-f50ecd3f535f" />
+- Job Roles
+- Countries
+- AI Specializations
+- Company Size
+- Experience Levels
+- Salaries
+- Employee Satisfaction
+- AI Adoption Score
+- Work-Life Balance
+- Career Growth
+- Industries
 
-## Excel Functions
-<img width="961" height="336" alt="06_Excel Functions Used" src="https://github.com/user-attachments/assets/0ef039e7-af1c-4cb1-902d-2e9d9a1e11ea" />
+The dataset provides a realistic business scenario for data cleaning, data modeling, exploratory analysis, and interactive dashboard development.
 
+> **Source:** Kaggle – Global AI Job Market Dataset
 
-## Key Insights
+---
 
-- Research Scientist has the highest average salary.
-- USA offers one of the highest average salaries.
-- Lead-level professionals earn the highest salaries.
+## 🖼️ Project Preview
+
+### Dashboard
+
+![Dashboard](Project_Assets/01_Dashboard.png)
+
+---
+
+### Power Query
+
+![Power Query](Project_Assets/02_Query.png)
+
+---
+
+### Data Model
+
+![Data Model](Project_Assets/03_Data_Model.png)
+
+---
+
+### Exploratory Data Analysis (EDA)
+
+![EDA](Project_Assets/04_EDA.png)
+
+---
+
+### Visualizations
+
+![Visualizations](Project_Assets/05_Visualizations.png)
+
+---
+
+### Excel Functions Used
+
+![Excel Functions](Project_Assets/06_Excel_Functions_Used.png)
+
+---
+
+## 💡 Key Insights
+
+- Research Scientists have the highest average salary.
+- The United States offers one of the highest average salaries.
+- Lead-level professionals earn significantly more than other experience levels.
 - AI adoption remains consistently high across industries.
-- Remote work provides better work-life balance.
+- Remote work provides the highest work-life balance score.
+
+---
+
+## ⭐ Project Highlights
+
+- Analyzed the global AI job market using Microsoft Excel
+- Built a Star Schema data model
+- Performed Exploratory Data Analysis (EDA)
+- Applied advanced Excel functions for data analysis
+- Developed interactive Pivot Tables and Pivot Charts
+- Built a fully interactive dashboard using Slicers
+
+---
 
 ## 👤 Author
 
@@ -67,4 +150,4 @@ How can Excel be used to analyze AI job market data and provide actionable insig
 
 **Management Information Systems (MIS) Student at King Faisal University**
 
-- LinkedIn:www.linkedin.com/in/saud-majrashi
+- LinkedIn: www.linkedin.com/in/saud-majrashi
