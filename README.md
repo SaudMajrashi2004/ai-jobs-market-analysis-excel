@@ -61,8 +61,10 @@ How can Excel be used to analyze AI job market data and provide actionable insig
 - AI adoption remains consistently high across industries.
 - Remote work provides better work-life balance.
 
-## Author
+## 👤 Author
 
-Saud Majrashi
-Management Information Systems (MIS) Student
-King Faisal University
+**Saud Majrashi**
+
+**Management Information Systems (MIS) Student at King Faisal University**
+
+- LinkedIn:www.linkedin.com/in/saud-majrashi
