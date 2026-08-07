@@ -89,37 +89,37 @@ The dataset provides a realistic business scenario for data cleaning, data model
 
 ### Dashboard
 
-![Dashboard](Project_Assets/01_Dashboard.png)
+![Dashboard](Project_Images/01_Dashboard.png)
 
 ---
 
 ### Power Query
 
-![Power Query](Project_Assets/02_Query.png)
+![Power Query](Project_Images/02_Query.png)
 
 ---
 
 ### Data Model
 
-![Data Model](Project_Assets/03_Data_Model.png)
+![Data Model](Project_Images/03_Data_Model.png)
 
 ---
 
 ### Exploratory Data Analysis (EDA)
 
-![EDA](Project_Assets/04_EDA.png)
+![EDA](Project_Images/04_EDA.png)
 
 ---
 
 ### Visualizations
 
-![Visualizations](Project_Assets/05_Visualizations.png)
+![Visualizations](Project_Images/05_Visualizations.png)
 
 ---
 
 ### Excel Functions Used
 
-![Excel Functions](Project_Assets/06_Excel_Functions_Used.png)
+![Excel Functions](Project_Images/06_Excel_Functions_Used.png)
 
 ---
 
