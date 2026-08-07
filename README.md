@@ -119,7 +119,7 @@ The dataset provides a realistic business scenario for data cleaning, data model
 
 ### Excel Functions Used
 
-![Excel_Functions](Project_Images/06_Excel_Functions.png)
+![Excel Functions](Project_Images/06_Excel_Functions.png)
 
 ---
 
